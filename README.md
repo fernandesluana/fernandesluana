@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luana Fernandes
 - 🌱 I’m currently about to finnish my Full Stack Developer Bootcamp
-- 👀 I love to develop personal projects, so keep an eye...
+- 👀 I'll be sharing my coding journey, projects, and evolution right here – join me as I code, learn, and grow in the world of software development!
 - 📫 Feel free to reach me on Linked-in or send me an e-mail!
 
 <br>
