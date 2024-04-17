@@ -17,7 +17,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesluana"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesluana)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 fernandesluana/fernandesluana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
