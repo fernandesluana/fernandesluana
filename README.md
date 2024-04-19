@@ -1,6 +1,6 @@
 <h1>Welcome to My GitHub!</h1>
 
-  <h2>About Me 👋</h2>
+  <h2>About Me 🙋‍♀️</h2>
   <p>Hey there! I'm Luana, currently diving deep into mobile development with a focus on Android. 📱</p>
 
   <h2>What You'll Find 🔍</h2>
