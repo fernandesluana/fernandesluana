@@ -18,7 +18,7 @@
 
 <h3>Tools I've worked with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase,idea,sqlite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,idea,sqlite&theme=light)](https://skillicons.dev)
 
 <h3>Reach out:</h3>
 
