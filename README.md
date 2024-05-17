@@ -16,7 +16,7 @@
 
 <br>
 
-<h3>Tools I've worked with:</h3>
+<h3>Some tools I've worked with:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,firebase,idea,sqlite&theme=light)](https://skillicons.dev)
 
